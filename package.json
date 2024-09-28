@@ -1,0 +1,15 @@
+{
+  "name": "mp-toggle-dark-mode",
+  "version": "1.0.0",
+  "description": "Você descobriu que a luz azul emitida pelo monitor pode atrapalhar o sono das pessoas. Com você se preocupa com o bem-estar das pessoas que usam seu app, você decidiu implementar um switch entre dark mode e light mode na sua aplicação. Sua sorte é que você estava usando TailwindCSS, então seu trabalho vai ser muito mais prazeroso.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i styles.css -o src/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
