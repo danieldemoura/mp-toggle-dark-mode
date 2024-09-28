@@ -18,12 +18,15 @@ Neste mini projeto, você terá a oportunidade de explorar os recursos do Tailwi
 ## 🎨 Inspiração de Design
 [🔗 Link para o Figma com o Design Sugerido](https://www.figma.com/file/suvmja6210ggZOO6Cpehjl/Mini-Projetos---Codante.io?type=design&node-id=563-2&t=Nf5bd9PYvgPCxd4X-0)
 
-
-![image](https://github.com/codante-io/mp-toggle-dark-mode/assets/6475893/4ebb6756-f98d-4e14-826a-80a6a86205b2)
-
+## 💻 Preview
+<video src="https://github.com/user-attachments/assets/b825b5fe-dd1c-492d-803a-09b870585a8b" controls></video>
 
 ## 💡 Inspiração
 Confira estes exemplos para se inspirar na implementação do Toggle de Dark Mode:
   - [Site do Josh Comeau](https://www.joshwcomeau.com/)
   - [Site do Codante](https://codante.io)
   - [O toggle mais satisfatório do mundo](https://svarden.se/post/the-worlds-most-satisfying-toggle?utm_source=stefanjudis)
+
+
+
+
